@@ -1,6 +1,6 @@
 # Quantum Computer Simulator(QCS)
 ## Introduction
-A Quantum computing simulator is a python package that simulates qubits and their various operations. This package support pre-defined gates like X, H, CX, and a general u3 and controlled u3 gate, with the additional support of parametric gates and global parameters which allows this to simulate variation quantum algorithms.
+The Quantum computing simulator is a python package that simulates qubits and their various operations. This package support pre-defined gates like X, H, CX, and a general u3 and controlled u3 gate, with the additional support of parametric gates and global parameters which allows this to simulate variation quantum algorithms.
 
 ## Features
 
