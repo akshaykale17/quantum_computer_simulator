@@ -18,7 +18,7 @@ QCS uses a couple of open source projects to work properly:
 
 ## Importing the package
 
-Download the [qsim.py]() file and import it as shown in the [q_sim.ipynb]() or [q_sim.pdf]().
+Download the [qsim.py](https://github.com/akshaykale17/quantum_computer_simulator/blob/main/qsim.py) file and import it as shown in the [q_sim.ipynb](https://github.com/akshaykale17/quantum_computer_simulator/blob/main/q_sim.ipynb) or [q_sim.pdf](https://github.com/akshaykale17/quantum_computer_simulator/blob/main/q_sim.pdf).
 
 ```python
 import qsim
@@ -67,7 +67,7 @@ And display the histogram using plot_readings function as shown below
 ```python
 qsim.plot_readings(counts)
 ```
-***For more examples please visit [q_sim.ipynb]() or [q_sim.pdf]()***
+***For more examples please visit [q_sim.ipynb](https://github.com/akshaykale17/quantum_computer_simulator/blob/main/q_sim.ipynb) or [q_sim.pdf](https://github.com/akshaykale17/quantum_computer_simulator/blob/main/q_sim.pdf)***
 
 
 ## Additional feature in works
